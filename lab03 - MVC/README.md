@@ -1,6 +1,8 @@
-#Orquestração e Coreografia
+# Orquestração e Coreografia
 
 ## Tarefa 1
+
+![Leilão invertido - Publish/Subscribe](https://github.com/jhowmerisse/INF331-labs/blob/master/lab03%20-%20MVC/images/Leil%C3%A3o%20Invertido.png)
 
 ## Tarefa 2
 
