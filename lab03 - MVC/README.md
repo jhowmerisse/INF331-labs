@@ -43,4 +43,4 @@
 
 ## Tarefa 4
 
-[Diagramas das tarefas 1 e 2 no padrão MVC](https://github.com/INF331-Grupo3/tarefa4/blob/master/README.md)
+[Diagramas das tarefas 1 e 2 no padrão MVC em grupo](https://github.com/INF331-Grupo3/tarefa4/blob/master/README.md)
