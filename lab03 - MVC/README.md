@@ -2,6 +2,8 @@
 
 ## Tarefa 1
 
+![Composição de pedido](https://github.com/jhowmerisse/INF331-labs/blob/master/lab03%20-%20MVC/images/Composi%C3%A7%C3%A3o%20de%20pedido.png)
+
 ## Tarefa 2
 
 ![Leilão invertido - Publish/Subscribe](https://github.com/jhowmerisse/INF331-labs/blob/master/lab03%20-%20MVC/images/Leil%C3%A3o%20Invertido.png)
