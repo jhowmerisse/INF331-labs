@@ -17,7 +17,7 @@
 const InputBox = () => {
   const [name, setName] = React.useState("Box");
   const [color, setColor] = React.useState("blue");
-  const [size, setSize] = React.useState("");
+  const [size, setSize] = React.useState(111);
 
   return (
     <div className="input-box">
@@ -62,7 +62,6 @@ const painel = (
   <div>
     <h1>Seja Bem vindo</h1>
     <h3>Modifique passando o nome, a largura e a cor desejada</h3>
-
     <InputBox />
   </div>
 );
