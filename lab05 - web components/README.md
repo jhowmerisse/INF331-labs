@@ -4,6 +4,8 @@
 
 ## Tarefa 2
 
+[Web component com CodePen](https://codepen.io/jhowmerisse/pen/MWyOxmg)
+
 ![codepen - web components](https://github.com/jhowmerisse/INF331-labs/blob/master/lab05%20-%20web%20components/images/Screenshot%20from%202020-08-31%2010-34-37.png)
 
 ### HTML
