@@ -2,6 +2,10 @@
 
 ## Tarefa 1
 
+### Web Components Detalhados
+
+![Web Components](https://github.com/jhowmerisse/INF331-labs/blob/master/lab05%20-%20web%20components/images/Web%20components%20detalhados.png)
+
 ## Tarefa 2
 
 [Web component com CodePen](https://codepen.io/jhowmerisse/pen/MWyOxmg)
